@@ -1,0 +1,68 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/image.png",
+      "title": "HTML"
+      
+    
+    },
+    {
+      "id": "2",
+      "src": "./img/css.png",
+      "title": "CSS"
+     
+    },
+    {
+      "id": "3",
+      "src": "./img/js.png",
+      "title": "JAVASCRIPT"
+     
+    },
+    {
+      "id": "4",
+      "src": "./img/React.png",
+      "title": "REACT JS"
+     
+    },
+    {
+      "id": "5",
+      "src": "./img/git.png",
+      "title": "GIT"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/Signup Page.png",
+      "title": "NETFLIX-GPT",
+      "description": "This is a netflix-GPT Project It will Provide the Recomdention of movies",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/Youtube Image.png",
+      "title": "YOUTUBE",
+      "description": "This is Youtube Project",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    }
+  ]
+}
